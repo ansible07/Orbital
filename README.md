@@ -16,5 +16,6 @@ The Story
 Notes
 =====
 
-* [Notes](Notes.md)
 * [Outline](Outline.md)
+* [Setting](Setting.md)
+* [Notes](Notes.md)
