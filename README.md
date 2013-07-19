@@ -11,10 +11,10 @@ lots of spoilers, naturally.
 The Story
 =========
 
-1. [[Introduction Intro.md]]
+1. [Introduction](Intro.md)
 
 Notes
 =====
 
-* [[Notes.md]]
-* [[Outline.md]]
+* [Notes](Notes.md)
+* [Outline](Outline.md)
