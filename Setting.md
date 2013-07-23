@@ -11,15 +11,32 @@ worst of the problems.  For example, bio-engineered floating trees in
 the oceans quickly absorbed the excess CO2 in the water and
 atmosphere, preventing the worst aspects of the greenhouse effect.
 
-Most people at this point have either uploaded, or spend 100% of their
-time in life support pods, staying Online all the time.
 
-Mars has been settled by humans who are fiercely independent.  They
-are pursuing their own colonization without help from the Machines.
-In fact, they are bootstraping their entire technology base so as to
-be completely free of the Machines' influence.  They are also
-bio-engineering themselves to better live in the Martian environment
+The main groups of humanity:
+
+ * The Uploads.  People who have uploaded themselves and live as software 
+alongside the Machines.  Some still live near Earth, but most have emigrated
+to Mercury, where there is a lot more compute resources available.
+ * The Martians.  Mars has been settled by humans who are fiercely
+independent.  They are pursuing their own colonization without help from
+the Machines.  In fact, they are bootstraping their entire technology
+base so as to be completely free of the Machines' influence.  They are
+also bio-engineering themselves to better live in the Martian environment
 without needing as much life-support.
+ * The Rightous Few.  Actually not so few these days, they number in the
+billions.  People who don't go Online and refuse Implants, and try to live
+and stay 100% biologically human.  They believe it is their manifest destiny
+to go out and settle the universe and spread their god's goodness to
+all, but they are still dependent on the Machines for their technological
+base, and their efforts have been stymied.  Their numbers keep growing,
+however.
+ * The Others.  People who have accepted various levels
+of Implants, life extension treatments and other modifications.  Most of them
+spend the majority of their time Online, usually in life support pods.  So
+in that sense it kind of resembles The Matrix, but you may leave at any time.
+However, few choose to do so, and in recent years, more and more of them
+have been uploading.  There aren't too many people still just walking around
+who also go Online.
 
 The Machines have started converting Mercury into solar-power
 computers.  However, they aren't completely happy with this, despite
