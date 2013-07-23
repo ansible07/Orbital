@@ -12,6 +12,7 @@ The Story
 =========
 
 1. [Introduction](Intro.md)
+2. [Infiltration](Infiltration.md)
 
 Notes
 =====
