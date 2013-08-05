@@ -4,6 +4,12 @@ General
 This is intended to be a hard (very hard) SF novel.  Anything that is
 not scientifically accurate is a bug that needs to be fixed.
 
+One of the key areas that the writing needs to be improved upon is
+"show, don't tell".  Much of the setting and backstory has been
+invented, but it is necessary to figure out ways to tell that well.
+So instead of having long passages of internal monologue for a
+character, it would be better to show what happened.
+
 
 Constructing an Orbital from the Moon
 =====================================
