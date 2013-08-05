@@ -42,3 +42,14 @@ The Machines have started converting Mercury into solar-power
 computers.  However, they aren't completely happy with this, despite
 the high solar flux, the planet's composition is not ideal for their
 purposes (too much iron).  They really want Venus too.
+
+The Uploads are an interesting case.  As a prerequisite for joining
+the larger community and to get fully Online, you have to cleanse
+youself of irrational thoughts and behaviors.  It would be easy enough
+to just edit an Upload's mentation patterns directly, but this is
+un-ethical and considered partial-murder.  So instead most people need
+to go through years (usually decades) of training and practice.  Only
+then, when they have been able to adapt themselves sufficiently, they
+can choose to have their mentation patterns examined and
+then be approved for full Online access.  This process is enforced by
+the Machines and the current Uploads.
