@@ -3,11 +3,11 @@ First though, it was time to take a look around the sim in debug mode.
 
 From this viewpoint, it was clear there was only one other person
 inside right now, just as expected.  I brought up a millimeter
-resolution render, and was looking at a woman.  She was blandly
-pretty I suppose;  nowhere close to the extemes of beauty and
-ugliness I'm used to seeing Online.  She vaguely reminded me of a
-newscaster from way back, but didn't really resemble anyone I'd seen
-before.
+resolution render, and was looking at a seemingly ordinary human woman. 
+She was blandly pretty, I suppose;  nowhere close to the extemes of
+flawless beauty and artful ugliness I'm used to seeing Online.  She
+reminded me of a Mexican variety show presenter from the turn of the
+millenium, but didn't really resemble anyone I'd met before.
 
 
 She was running a bit high with her perceptual bandwidth, over
@@ -27,4 +27,4 @@ pay for the extra processing I'll be using while inside the sim, but
 this could easly blow that budget and start eating away my bonus.
 
 The shape of the sim was also kind of odd, but it wasn't clear to me
-why exactly.
+why exactly.  I'll have to wait until I'm in there to find out more.
