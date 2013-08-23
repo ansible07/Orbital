@@ -1,9 +1,18 @@
 The Setting
 ===========
 
-The story takes place in a post-Singularity Earth.  In the early 21st
-century, humanity has developed [molecular nanotechnology](http://en.wikipedia.org/wiki/Molecular_nanotechnology)
-and functional [artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence).
+The story takes place in a post-Singularity Earth.  This world is
+intended to be what I see as a very best case scenario
+for how humanity will progress in the coming years.  Everything turned
+out well, while the environment was damaged, it is being repaired.
+In the early 21st century, humanity has developed
+[molecular nanotechnology](http://en.wikipedia.org/wiki/Molecular_nanotechnology)
+and functional
+[artificial intelligence](http://en.wikipedia.org/wiki/Artificial_intelligence),
+and done so in a safe and effective manner.  The machines don't want
+to kill us, in fact they mostly leave regular humans alone.
+
+
 By the time these were developed, the Earth's biosphere was heavily
 degraded, but not to the point of experiencing an environmental
 collapse.  Several quick fixes were rapidly deployed to mitigate the
@@ -11,6 +20,8 @@ worst of the problems.  For example, bio-engineered floating trees in
 the oceans quickly absorbed the excess CO2 in the water and
 atmosphere, preventing the worst aspects of the greenhouse effect.
 
+Of course, even in a nearly perfect world, there will be conflict, and
+interesting stories to tell.
 
 The main groups of humanity:
 
@@ -53,3 +64,5 @@ then, when they have been able to adapt themselves sufficiently, they
 can choose to have their mentation patterns examined and
 then be approved for full Online access.  This process is enforced by
 the Machines and the current Uploads.
+
+
