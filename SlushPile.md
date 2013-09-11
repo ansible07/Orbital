@@ -59,6 +59,24 @@ copy) off somewhere.  And then you'll be running non-continuously on
 different hardware.  So you might as well just stay as software from
 the start."
 
+Nightclub p3
+-------------
+
+A: "So we're back to where we started."
+
+C: "What about structuring the sim to match the topology of what's
+being simulated?"
+
+C: "So suppose we decide to simulate a Culture orbital. "
+
+C: "The nodes, which are people, move when the people are moving
+through the sim.  That way you keep the lag down.  And its realistic
+too, if you're talking to someone thousands of km away in reality,
+then there'll be lag there too, that's just the speed of light."
+
+C: "It all depends on what you're simulating, and what
+the rules are.  If the sim is obeying the physical laws of the
+universe, "
 
 Sudden Interest
 ---------------

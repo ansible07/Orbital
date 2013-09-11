@@ -31,7 +31,7 @@ New (smaller) size based on
 The moon is composed of 10 to 20% iron, so this should work.
 
 
-Simulated Orbital Size / Mass
+Simulated Orbital: Size / Mass
 =============================
 
 Constructed on a 1/30 scale from actual orbital.
