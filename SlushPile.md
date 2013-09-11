@@ -28,7 +28,8 @@ energy."
 A: "And there's no way the Machines will sign off of using that much
 mass on a dumb matter structure, especially not one of that size."
 
-
+Compression
+-----------
 
 C: "What about that 'compression' technology you said Chairman Zhang
 was presenting?"
@@ -57,4 +58,9 @@ you want to go anywhere, you're sending a copy (possibly the exclusive
 copy) off somewhere.  And then you'll be running non-continuously on
 different hardware.  So you might as well just stay as software from
 the start."
+
+
+Sudden Interest
+---------------
+
 
