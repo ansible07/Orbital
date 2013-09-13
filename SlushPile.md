@@ -64,6 +64,39 @@ Nightclub p3
 
 A: "So we're back to where we started."
 
+C: "Maybe not.  What if we gave up the idea of being able to simulate
+anything?  What if we only simulated a world which has physics
+identical to the real world?"
+
+A: "What, so no teleportation, FTL signaling, more than three physical
+dimensions?  That sounds boring.  Besides, if each person is stuck in
+their own node, they can only interact with people near themselves with
+low latency.  Interactions with anyone on a node physically far away
+would have noticable lag.  This is totally a solved problem if
+everyone converts to software."
+
+C: (still thinking) "What if nodes physically moved in the simulation
+grid in response to movement inside the simulation?"
+
+A: "So, say you're in a city, and you want to visit your friend across
+town.  The node that runs you would then need to leave the 'building'
+you are in, move down the 'street', and then go to the 'building' your
+friend is in?"
+
+C: "Yes.  Each 'building' is just a stack of nodes with the people in
+the building itself and other nodes simulating the building itself and
+the nearby environment.  The 'street' might just be a linear
+transport.  Nodes, when moving or stationary, directly connect with
+their nearby nodes, so that the person can interact with their local
+environment.  Looking at things far away goes through the backbone
+network, which adds lag, but that's OK because there would be greater
+lag in the real world due to the speed of light."
+
+A: "If the sim grid is built at, say, 1/30th the scale of the
+simulated world, the light speed delay should just about match the
+processing and routing delays."
+
+
 C: "What about structuring the sim to match the topology of what's
 being simulated?"
 
