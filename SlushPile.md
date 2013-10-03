@@ -114,4 +114,28 @@ universe, "
 Sudden Interest
 ---------------
 
+The Trip
+--------
 
+Allison walked in, clearly excited.  She had a golden ticket in her
+hand, and handed it to Charlie with a flourish.
+
+"What's this?" Charlie looked over the ticket.  "One way ticket, up to
+20 light-years.  350 grams.  1kbit/sec up / down quota.  20mW average
+power draw."  Charlie looked up quizically. 
+
+C: "Hmmm... 20mW isn't enough for much, unless you're running
+reversible logic."
+
+A: "Yes."
+
+C: "But if you were, there's enough mass for a couple compressed minds
+and a decent amount of sim space.  Running pretty slow though."
+
+A: (nods)
+
+C: 
+
+
+A: "I couldn't get us on the closer missions, but Epsilon Indi is one of
+the best chances to discover extraterrestrial life!"
