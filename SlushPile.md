@@ -5,6 +5,17 @@ Slush Pile
 Sometimes it is better to just write it all out, and edit and organize
 it later.  Don't expect any of this to be terribly coherent.
 
+Nightclub p0
+-------------
+
+So we got ready to go out later tonight.  The nightclub is running a
+gaming theme tonight, so guests are to dress up as characters or
+something.  Cliche'd... the oldest kind.  But I went with the flow,
+because I was trying to humor Allison.
+
+I choose to go as Stammer McGee from 'Highland Mayhem 4', and my twist
+on it was to render the costume in Studio Ghibli style.
+
 Nightclub p2
 -------------
 
@@ -59,6 +70,8 @@ copy) off somewhere.  And then you'll be running non-continuously on
 different hardware.  So you might as well just stay as software from
 the start."
 
+Notes: Will probably have the protagonists invent this instead.
+
 Nightclub p3
 -------------
 
@@ -83,17 +96,17 @@ town.  The node that runs you would then need to leave the 'building'
 you are in, move down the 'street', and then go to the 'building' your
 friend is in?"
 
-C: "Yes.  Each 'building' is just a stack of nodes with the people in
-the building itself and other nodes simulating the building itself and
-the nearby environment.  The 'street' might just be a linear
-transport.  Nodes, when moving or stationary, directly connect with
+C: "Yes.  Each 'building' is just a grid frame of nodes with the people
+in the building itself and other nodes simulating the building itself
+and the nearby environment.  The 'street' might just be a linear
+node transport.  Nodes, when moving or stationary, directly connect with
 their nearby nodes, so that the person can interact with their local
 environment.  Looking at things far away goes through the backbone
 network, which adds lag, but that's OK because there would be greater
 lag in the real world due to the speed of light."
 
-A: "If the sim grid is built at, say, 1/30th the scale of the
-simulated world, the light speed delay should just about match the
+A: "If the sim grid is built at, say, 1/100th the scale of the
+simulated world, the light speed delay should be greater than the
 processing and routing delays."
 
 
@@ -108,8 +121,8 @@ too, if you're talking to someone thousands of km away in reality,
 then there'll be lag there too, that's just the speed of light."
 
 C: "It all depends on what you're simulating, and what
-the rules are.  If the sim is obeying the physical laws of the
-universe, "
+the rules are.  If the sim is completely obeying the physical laws of
+the universe, then there are no surpises."
 
 Sudden Interest
 ---------------
