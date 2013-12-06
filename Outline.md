@@ -2,11 +2,19 @@
 1. Introduction
 2. Interlude with Frank
 3. The breakin and ghosting around
-4. Meeting Allison
-5. Having fun and the crash
-6. Real reasons
+4. Meeting Allison the Ambassador
+5. Exploring
+5. MotoGP
+6. 
 7. Interlude with Frank #2
-8. Orbital
+8. Night Club - part 0
+    preparation
+8. Night Club - part 1
+    much fun was had
+8. Night Club - part 3
+    orbital design session
+8. Night Club - part 3
+    even more fun
 9. Conclusion
 
 Plot Outline
