@@ -16,4 +16,4 @@ genotype and phenotype results.  There were virtualized drivers for my
 implants, so I'd have full access to my own tools and expert systems
 while experiencing the simulation.  This was especially important
 considering I wouldn't be able to access the Internet much while in
-there, that would leave too many tracks I'd need to erase later.
+there; that would leave too many tracks I'd need to erase later.
