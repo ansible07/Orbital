@@ -23,8 +23,12 @@ atmosphere, preventing the worst aspects of the greenhouse effect.
 Of course, even in a nearly perfect world, there will be conflict, and
 interesting stories to tell.
 
-The main groups of humanity:
+The main groups:
 
+ * The Machines. AGIs originally invented by humans, and the sole
+wielders of advanced MNT.  They operate
+under their own strict moral rules and also the Grand Compromise
+created at the start of the Machine Age.
  * The Uploads.  People who have uploaded themselves and live as software 
 alongside the Machines.  Some still live near Earth, but most have emigrated
 to Mercury, where there is a lot more compute resources available.
@@ -54,10 +58,17 @@ The main reason they haven't Uploaded is a philosophical disagreement
 about the continuity of Self when the mind is no longer running on its
 original hardware (more on this later).
 
-The Machines have started converting Mercury into solar-power
-computers.  However, they aren't completely happy with this, despite
-the high solar flux, the planet's composition is not ideal for their
-purposes (too much iron).  They really want Venus too.
+The Machines have started reconstructing Mercury into solar-power
+computers (computronium) and 
+experimental physics equipment.  They want more matter soon to
+continue their expansion. 
+
+At the dawn of the Machine Age, a Grand Compromise was reached.  The
+Machines would have free reign over Mercury.  The Moon and Mars would
+be settled by humans as they saw fit.  Venus and the gas giants are
+currently off-limits for settlement, only jointly run scientific
+exploration is allowed.  There was planned to be further negotiation
+about the settlement later.
 
 The main conflict of the story (what there is of it) revolves around
 the idea that there isn't much science and engineering talent left on
@@ -80,14 +91,23 @@ enforced by the Machines.
 And as a practical matter, if you're going truly going to contribute,
 you need to run at the speed of the Machines, and you need to be close
 by to everyone else working in that field.  So that means Uploading,
-and transmitting yourself to Mercury.
+and transmitting yourself to Mercury.  Also typically, an Upload loses
+interest in the affairs and concerns of the rest of humanity in the
+process.
 
 If a Normal is just interested in creating new virtual worlds or other
 software, they can and do stick around as regular humans on Earth.
 They are basically just producing content for other Normals, but not
 really contibuting to advancing the state of the art in science or
-engineering.  There are others building wacky robots out of
-Machine-designed components and such, but they are basically
-hobbyists.
+engineering.  There are other people building wacky robots and such out
+of Machine-designed and approved components and such, but they are
+basically hobbyists.  Building anything from scratch (other than via
+traditional biological pathways) is regulated by the Machines for
+everyone's safety.  The Machines also keep an eye on advanced
+biological research (even that without direct genetic manipulation)
+to prevent created of biological weapons.  The Normals, by virtue of
+spending the majority of their time in hermetically sealed Interface
+pods and boosted immune systems are largely immune to such viruses and
+bacteria, but a biological weapon could devastate the Rightous Few.
 
 
