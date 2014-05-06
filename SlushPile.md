@@ -16,6 +16,86 @@ because I was trying to humor Allison.
 I choose to go as Stammer McGee from 'Highland Mayhem 4', and my twist
 on it was to render the costume in Studio Ghibli style.
 
+...
+
+Allison walked in wearing a faithful rendering of an old video game
+character 'Bayonetta' that I'd heard about years and years ago.  The
+design was based on fairly standard fantasy and comic tropes of the
+time, what with the catsuit's strategic cutouts and such.  She was all
+decked out with the accessories the character usually carried, a pair of
+large caliber derringer-type pistols on her ankles, and a katana with an
+unusual design on her back.
+
+She struck a fashion pose and then spun around to give me a good look. 
+All in all, it was nice, but not inspired.
+
+I did smile (there was an old, old part of me that liked this sort of
+thing), but I get the sense she picked up that I was not really
+impressed though.  She walked up to me with a smirk, brought her left
+foot, and unclipped 'Thyme' and handed it to me.
+
+Thyme was fairly hefty, like I expected with a real gun.  The details
+(as far as I could tell) were accurate.  I saw that there were a
+couple informational overlays available for it, and popped them up in
+my field of view.
+
+The first had the details of its implementation within fantasy game
+rules.  Allison had documented everything, including the gun's ability
+to magically summon bullets at an impressive fire rate.
+
+I wasn't expecting what was in the second overlay, though.  It was a
+fully realized design for the gun in the real world.  The level of
+detail here was interesting.
+
+Since obviously it couldn't magically summon bullets, there were
+provisions for an automatic feed mechanism along the top as well as in the
+handle.  So if you sacrificed some of your leg volume, you could have
+a fair sized magazine that wouldn't disturb the gun's look while
+attached.  It would be the same if you held the gun in your hand.
+
+I started to hand it back to Allison.  "Nice, very nice.  I am
+impressed."
+
+Allison smiled at me as she accepted it, and clipped it back on her
+ankle.  "I don't have the ammo feeds installed, I'm not planning on
+shooting anyone tonight."
+
+She continued as she handed me a pair of white gloves. "Here, put
+these on first, and don't let the blade or hilt touch any part of
+you."
+
+I was decidedly confused, but complied.  Dirt wasn't really a problem
+for most anything we make these days, as putting on a surface that is
+auto-cleaning is pretty standard.  And while we were in a higly
+realistic simulation, that is one of the common things that is fudged
+anyway, unless it is important somehow (like if you're in a gardening
+sim).
+
+Allison unclipped the katana from her back (there was no scabbard) and
+carefully handed it to me in both hands, with the blade edge facing
+up.
+
+I also showed care in holding it with both hands.  For this item there
+were three information overlays available.
+
+The first was the fantasy game information as before.  It was a fairly
+standard, high-level demonically possed blade.  It granted numerous
+speed and strength bonuses, along with the long-term downsides
+typically of weapons in this category, including bloodlust and
+paranoia.  It was perfect for cutting down hordes of mooks or for a
+one-on-one duel with Elric of Melnibone wielding Stormbringer.  Very
+nice overall.
+
+I flipped to the next overlay for the real world.  This was a nasty
+piece of work.  Allison did not seem to be content with a standard
+strong and flexible sword with a sharp edge.  The edge was actually a
+series of micro-buzzsaws that would cut through just about anything
+below Mohs-8 or so.
+
+She was apparently not content with even that.
+
+
+
 Nightclub p2
 -------------
 
