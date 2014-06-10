@@ -23,11 +23,24 @@ Plot Outline
 Charles is hired to break in to a high security simulation, to find
 out what the Machines are up to.  There he meets Allison, and gets to
 know her.  Allison is a new generation of emmisaries created by the
-Machines to learn about the remainder of humanity (finally, after
+Machines to steer the remainder of humanity (finally, after
 decades of apathy).  Humanity is again headed towards an
-overpopulation crisis, and at least a few of the Machines care enough
-to try to intervene.  Chairman Zhang is also supposed to meet with
-Allison later to talk about his proposal.
+overpopulation crisis, and at least a few of the Machines finally care
+enough to try to intervene.  
+
+Allison will soon be instantiated as a human being, though a Human
+v3.0.  Many redesigns have been attempted in the past, but this is the
+first serious effort by the Machines to do it, and they've done a
+complete job.  Stronger, smarter, immune to disease, and all the usual
+stuff.  Beyond that, H3.0's mental infrastructure is largely immune to
+most cognitive biases, and has the capability to be supremely rational
+compared to H1.0.  The goal is to have H3.0 enter the remaining human
+population, breed with H1.0, which will then cause the H1.0 to
+eventually go extinct, since H3.0 when mixed with H1.0 genes will
+overwrite them.
+
+Chairman Zhang is also supposed to meet with Allison later to talk about
+his proposal.
 
 Allison and Charles spend a lot of time together, and maybe even start
 to fall in love.  This culminates in a late-night design session where
