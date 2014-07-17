@@ -1,6 +1,5 @@
 
 1. Introduction
-2. Interlude with Frank
 3. The breakin and ghosting around
 4. Meeting Allison the Ambassador
 5. Exploring
@@ -16,20 +15,41 @@
 8. Night Club - part 3
     even more fun
 9. Conclusion
+2. Interlude with Frank
 
 Plot Outline
 ============
 
-Charles is hired to break in to a high security simulation, to find
-out what the Machines are up to.  There he meets Allison, and gets to
-know her.  Allison is a new generation of emmisaries created by the
-Machines to steer the remainder of humanity (finally, after
-decades of apathy).  Humanity is again headed towards an
-overpopulation crisis, and at least a few of the Machines finally care
-enough to try to intervene.  
+Chairman Zhang is working towards the betterment of humanity, and uses
+his longstanding relationship with the Machines to get better
+technology to allow more people to live on the Earth's limited
+resources.  However, his efforts are not shown proper (or really any)
+appreciation by the people (the Righteous Few) who benefit the most.
+He conceives of a plan to "exterminate" them by creating a new version
+of humanity that is more rational in general, having those people mix
+with the general population, and through some genetic trickery,
+basically breed the v1.0 humans out of existance in 10 generations or
+so.  He manages to convince the Machines that this is for the benefit
+of all of humanity, and they agree to design humanity v3.0.
 
-Allison will soon be instantiated as a human being, though a Human
-v3.0.  Many redesigns have been attempted in the past, but this is the
+The first "prototypes", v3.0 humans raised by the Machines, are almost
+ready.  One of them, Allison, is set to be instantiated in a physical
+body in a week, but already there are some unexpected problems.
+
+Charles is hired to break in to a high security simulation (which as
+it turns out, just contains Allison), to find
+out what the Machines are up to.  Charles' employers are also
+concerned about the future of humanity, and are worried the Machines
+may have decided to breach the agreements in the Grand Compromise.
+
+In the simulation, Charles meets Allison, and gets to
+know her.  Allison is a new generation of humanity created by the
+Machines to steer the remainder of humanity in a better direction. 
+The Machines want to make humanity more rational, and so have created
+Allison and her kin to mix with regular humans, and insert superior
+genes into the population (which is mostly what Chairman Zhang wanted).
+
+Many redesigns have been attempted in the past, but this is the
 first serious effort by the Machines to do it, and they've done a
 complete job.  Stronger, smarter, immune to disease, and all the usual
 stuff.  Beyond that, H3.0's mental infrastructure is largely immune to
@@ -40,38 +60,101 @@ eventually go extinct, since H3.0 when mixed with H1.0 genes will
 overwrite them.
 
 Chairman Zhang is also supposed to meet with Allison later to talk about
-his proposal.
+his proposal.  But there are already problems.  Raised by
+Machine-simulated parents (a requirement imposed by the Machines), Allison
+and the other v3.0s are relucant to mix with the RF population,
+because of how backwards they are (socially and genetically) even
+though we all look alike.  It is not at all clear why the Machines
+didn't anticipate this problem with their initial design and
+upbringing of Allison and the other H3.0 people.  Chairman Zhang has
+brought in an outside consultant, who Charlies has arranged to be
+delayed, and has substituted himself, posing as the consultant.
 
 Allison and Charles spend a lot of time together, and maybe even start
 to fall in love.  This culminates in a late-night design session where
-they both work on a new way to solve the looming crisis.  Charles
-needs to leave the simulation.  The original plan was to just reset
-it, and let it run forward to the point it would have been without
-him.  However, this would mean the partial murder of Allison, and the
-loss of their combined effort, so he just leaves.  Allison, in the
-mean time, has decided to instantiate herself in the Real World ahead
-of schedule, to spend more time with Charles.
+they both work on a new way to solve the looming crisis.  The
+population of the Righteous Few is actually not really growing that
+fast, because they have a lot of defectors, who leave and go Online
+instead.  So even though the Online population doesn't tend to have
+children (or if they do, just software ones), the Online population is
+still growing substantially.
 
-Charles exits the sim.  Allison, upon exiting the sim herself,
-discovers that Charles was an intruder / spy, and not (exactly) who he
-said he was.  She confronts him before he gets away, and apparently
-kills him in a fit of rage (which is unheard of for a Machine, but
-then she was designed and raised to be more human).  As it turns out,
-his medical implant does manage to save his life, in a hilarous PoV
-scene.
+Initially, they discuss constructing a Culture Orbital.  It isn't
+really necessary to construct it out of unobtainium, simply using
+steel will do nicely.  They discuss where and how to construct it, but
+the Machines are unwilling to give up Venus to such a mass-inefficient
+way of supporting sophonts.
+
+Charles proposes turing the Moon into a narrow Orbital (10km wide by
+3.71 million km in diameter), which would
+still have twice the land area of the Earth, orbiting the sun
+coincident with it (needs active stabilization).  The population of
+the Earth could be moved off, and then the Earth could be deconstructed
+to make the ring wider to provide drastically more living space.
+
+Probably still too expensive for the Machines to agree with though.
+
+They then talk about constructing a simulated Orbital on the Moon at
+1/50th scale.  The entire thing would be a giant, continuous, coherent
+simulation of a full-size Orbital.  It would be populated by tiny
+compressed people, consisiting of a simulation core and a 1-to-1
+mapped miniature human brain.  The grid structure simulations the
+envirionment (houses, trees, etc.) and the each sim core simulates the
+body of the person.  The entire sim follows the regular laws of
+physics (no teleportation or magic) and the reduced size allows speed
+of light restictions to be accurately simulated even while running hot
+(5x realtime).  It would allow for much greater space for the current
+Online population.  Since this is much, much more mass efficient, the
+Machines would likely be OK with it and construct it.
+
+They also discuss the means by which the Righteous Few can themselves
+be slowly steered away from a population explosion.
+
+Charles now overdue for reporting in to his employers, and needs to
+leave the simulation.  The original plan was to just reset
+the sim, and let it run hot to the point it would have been without
+him.  With clever manipulation of the server logs, and injection of
+additional funds to pay for the compute time, 
+there should be almost no indication that a break-in even occurred at
+all.  However, this would mean the erasure of some of Allison's
+memories (considered partial murder these days), and the loss of their
+combined design efforts, so with a conflicted heart (and knowing
+this will blow his cover) he just leaves.  He can't bear the thought
+of harming Allison, nor of destroying the work they've done in their
+short time together.  Allison, in the mean time, has decided to
+instantiate herself in the Real World ahead of schedule, to spend more
+time with Charles.
+
+Charles exits the sim.  Allison, surprised by his sudden departure
+without adequate explaination (especially so since things were seeming
+to go so well), upon exiting the sim herself, discovers that Charles was
+an intruder / spy, and not (exactly) who he said he was.  She confronts
+him before he gets away, and apparently kills him in a fit of rage
+(which is not supposed to happen with a v3.0).  As it turns out,
+Charles' medical implant does manage to save his life, in a hilarous PoV
+scene.  The med implant (working with Charles brain pal), try to
+continue to escape, but they are immediately caught.  Allison is
+distraught, horrified by what she has done.
 
 Charles awakes, and is confronted by Chairman Zhang, who has been
-aprised of the situation.  On the one hand, they have proof of his
-crimes (hacking, espionage).  However, Allison inflicted fatal wounds
-upon him, so if he pressed charges, she could be convicted of murder.
+informed of the situation.  On the one hand, they have proof of his
+crimes (hacking, espionage, conspiracy for memory erasing).  However,
+Allison inflicted fatal wounds
+upon him, so if this all went to court, she could be convicted of
+murder too.
+
+Chairman Zhang really likes what Allison and Charles have designed
+though, and wants to use it to make a full proposal to the Machines
+and to the remaining human governments.
+
 They make a deal to have Charles and Allison continue to work on their
 mutual design proposals for a few months of subjective time (a couple
-days of real time), to present to the Machines to get their help for
+days of real time), to present to all sides to get their agreement for
 the implementation.
 
 As part of the proposal, thousands of terrawatt laser transmitters will
 need to be constructed.  After the main construction phase is over,
 these will be used to launch starwisps (light sail ships) to start to
-colonize other star systems.  Charles and Allison get passage to
-Epsilon Indi to explore and look for extraterrestial life, and live
-happily ever after.
+colonize other star systems, both for machines and compact people. 
+Charles and Allison get passage to Epsilon Indi to explore and look for
+extraterrestial life, and live happily ever after.
