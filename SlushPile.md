@@ -232,3 +232,19 @@ C:
 
 A: "I couldn't get us on the closer missions, but Epsilon Indi is one of
 the best chances to discover extraterrestrial life!"
+
+
+Chairman Zhang Intro
+--------------------
+
+CZ and a few others are at an opening ceremony for a new type of
+habitat.  Long-term partnet Mei-Mei is there and a few others from his
+organization.
+
+The new design is a lily pad city.  New design will allow for good
+expansion of human population on Earth.  Few appreciate it though.
+
+This puts CZ in a contemplative mood.  He wants to steer humanity to a
+better path, and avoid the looming population crisis.
+
+Stares out to sea.  A plan begins to form in his mind.
