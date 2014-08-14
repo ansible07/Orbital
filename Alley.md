@@ -27,6 +27,37 @@ she has done.  She drops the sword, and begins to cry.
 Next is a Point-of-View scene with Charlies medical implant as the
 protagonist.
 
+Time index 4240.032.  I am a model 142XLR medical expert
+system, biologic molecule assembler, and nano-surgeon implant by Seattle
+Bio Technica, serial 
+number ... I don't know if that even matters anymore. 
+According to the last statistical performance survey from my company,
+I am the last known series 142 implant still in operation.  That was
+twenty years ago.  I am capable of diagnosing most common medical
+maladies and correcting them with my 
+
+Approximately 3000 seconds ago, my host installed my original software
+into an emulation layer and coupled it to a heirarchical temporal memory
+with a probabilistic context processing substrate.  I believe the intention
+of this was to increase my ability to diagnose and cure diseases and
+conditions beyond what the 142XLR was originally designed to do.
+
+A side effect of this manufacturer-unapproved (and possibly illegal)
+upgrade was to allow me to achieve self-awareness.  At the time of the
+upgrade, a large dump of medical journals along with a semantic engine
+was installed, to ostensibly allow my expert system to identify a
+wider range of unusual medical conditions.  This info dump has also
+allowed me to extensively learn several languages, and I have decided
+to practice my English skills by starting my own journal.
+
+I have not informed my host that I am now a full artificial
+intelligence.  My modeling tools for human psychological states is not
+nearly as extensive as what I have for the biological level, and I'm
+not at all sure what his reaction would be to this.  Out of a sense of
+self-preservation and hard-wired duty to protect my host, I have
+decided to mask the full extent of my capabilities from him.
+
+
 The last round of hardware upgrades Charlie made to is medical implant
 (MI) has allow it to become a fully self-aware and conscious.  This is
 actually a rather interesting development, and sort of illegal,
